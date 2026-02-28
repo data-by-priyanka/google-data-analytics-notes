@@ -1,4 +1,4 @@
-## 📜 Foundation: Data, Data, Everywhere – Certificate
+<h2 align="center"> Foundation: Data, Data, Everywhere – Certificate</h2>
 
 <p align="center">
   <img src="Foundations.png" width="800">
