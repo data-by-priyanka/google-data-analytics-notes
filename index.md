@@ -18,11 +18,11 @@ These notes are created for:
 
 ## Course Modules
 
-1. Foundations: Data, Data, Everywhere  
-2. Ask Questions to Make Data-Driven Decisions  
-3. Prepare Data for Exploration  
-4. Process Data from Dirty to Clean  
-5. Analyze Data to Answer Questions  
+- [01 - Foundations: Data, Data, Everywhere](./01-Foundations%20Data,%20Data,%20Everywhere/)
+- [02 - Ask Questions to Make Data-Driven Decisions](./02-Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/)
+- [03 - Prepare Data for Exploration](./03-Prepare%20Data%20for%20Exploration/)
+- [04 - Process Data from Dirty to Clean](./04-Process%20Data%20from%20Dirty%20to%20Clean/)
+- [05 - Analyze Data to Answer Questions](./05-Analyze%20Data%20to%20Answer%20Questions/)
 
 ---
 
