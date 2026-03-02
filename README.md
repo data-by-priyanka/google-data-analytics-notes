@@ -1,8 +1,10 @@
-# Google Data Analytics Notes
+# Google Data Analytics – Structured Learning Notes
 
-This repository documents my structured learning journey through the Google Data Analytics Professional Certificate.
+This repository documents my structured progression through the Google Data Analytics Professional Certificate.
 
-It contains organized notes, practice exercises, workflow breakdowns, and analytical reflections developed while building foundational skills in data analysis.
+It captures the practical development of analytical thinking, data cleaning techniques, SQL querying skills, spreadsheet workflows, and business-oriented problem solving.
+
+Rather than passive notes, this repository reflects applied learning through exercises, structured breakdowns, and real-world case study reflections.
 
 ---
 
@@ -11,52 +13,54 @@ It contains organized notes, practice exercises, workflow breakdowns, and analyt
 The purpose of this repository is to:
 
 - Build a strong foundation in data cleaning and transformation
-- Practice SQL querying and structured data analysis
-- Strengthen Excel workflow automation and formula logic
-- Develop analytical thinking and business interpretation skills
-- Document learning progression in a structured format
+- Apply SQL for structured data exploration and aggregation
+- Strengthen Excel-based analytical workflows
+- Practice business-focused interpretation of data insights
+- Develop structured analytical communication
 
 ---
 
-## 📚 Topics Covered
+## 📚 Core Competencies Developed
 
 - Data Cleaning & Preparation
-- Spreadsheet Fundamentals
-- Advanced Excel Functions
-- SQL Queries (Filtering, Joins, Aggregation)
-- Data Visualization Principles
-- Case Study Analysis
+- Spreadsheet Modeling & Formula Logic
+- SQL Querying (Filtering, Joins, Aggregation)
+- Exploratory Data Analysis
+- Data Visualization Fundamentals
+- Case Study Interpretation
 - Analytical Storytelling
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 
 - Microsoft Excel
 - SQL
 - Google Sheets
-- Data Visualization Concepts
-- Structured Problem Solving Frameworks
+- Data Visualization Principles
+- Structured Problem-Solving Frameworks
 
 ---
 
 ## 📁 Repository Structure
 
-Each folder represents a specific module or topic from the certification program.
+Each folder represents a certification module and includes:
 
-Files include:
+- Concept summaries
 - Structured notes
-- Practice queries
-- Formula breakdowns
-- Case study summaries
-- Concept explanations
+- Query practice
+- Workflow documentation
+- Analytical reflections
+
+This structure mirrors the progression of skill development throughout the certification journey.
 
 ---
 
-## 🚀 Continuous Development
+## 📈 Ongoing Development
 
-This repository reflects an evolving learning process.  
-As I progress, additional examples, refinements, and practical applications are continuously added.
+This repository is continuously refined as new concepts are applied, reinforced, and expanded through practice.
+
+It represents disciplined skill-building toward professional data analytics capability.
 
 ---
 
